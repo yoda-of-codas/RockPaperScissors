@@ -1,6 +1,7 @@
 # RockPaperScissors
 
 Guidelines on the files:::
+
 RPS.java >>> Commandline version of the game less fun
 
 RPS.exe >>> Windows Executable GUI
