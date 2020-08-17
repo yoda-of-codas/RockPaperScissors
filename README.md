@@ -4,7 +4,9 @@ Guidelines on the files:::
 
 RPS.java >>> Commandline version of the game less fun
 
-RPS.exe >>> Windows Executable GUI
+RPS.exe >>> Windows Executable CommandLine
+
+Rock Paper Scissors >>> Windows Executable GUI
 
 INTRO.java >>> GUI but has to be run through the command line with will in turn import RPSPRO.java
 
